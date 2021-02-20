@@ -10,7 +10,7 @@ class Args{
 		public void getname(String ArgsTest ) {
 			
 		}
-		public void getName(String ... ArgsTest ) {
+		public void getName(String ArgsTest ) {
 		
 		}
 		public void getname(String ArgsTest,String args ) {
